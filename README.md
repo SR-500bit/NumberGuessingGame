@@ -1,5 +1,4 @@
-# NumberGuessingGame
-Sure! Here's a professional and clear README file you can use for your Number Guessing Game project on GitHub:
+
 
 ---
 
